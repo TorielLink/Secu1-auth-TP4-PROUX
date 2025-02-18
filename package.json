@@ -15,6 +15,7 @@
   "dependencies": {
     "@fastify/formbody": "^7.4.0",
     "@fastify/jwt": "^8.0.0",
-    "fastify": "^4.25.2"
+    "fastify": "^4.25.2",
+    "fastify-plugin": "^5.0.1"
   }
 }
